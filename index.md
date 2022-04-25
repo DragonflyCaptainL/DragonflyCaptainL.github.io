@@ -1,42 +1,31 @@
 ## Biography
+Jianwei Liu is currently a first-year doctoral student of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He joined Prof. Jinsong Han’s research group in 2018, mainly focusing on Mobile computing & Wireless Sensing & IoT Security & Artificial Intelligence. 
+
 ## Research Interests
+-  Mobile Computing
+-  Wireless Sensing
+-  IoT Security
+-  Artificial Intelligence
+
+
 ## Education
+- Persuing Ph.D. degree since 2021
+- Master's degree from Xi'an Jiaotong University (2021)
+- B.S. degree from Northwestern Polytechnical University (2018)
+
 ## Publications
-- **<font color="Red">[iCDCS'21]</font>** MandiPass: Secure and Usable User Authentication via Earphone IMU ,**Jianwei Liu**, Wenfan Song, Leming Shen, Jinsong Han, Xian Xu, Kui Ren. **<font color="Red">(Best Paper Candidate)</font>**
+- **<font color="Red">[TDSC'22]</font>** Behavior Privacy Preserving in RF Sensing, **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren. 
+- **<font color="Red">[INFOCOM'22]</font>** Physical-World Attack towards WiFi-based Behavior Recognition, **Jianwei Liu**, Yinghui He, Chaowei Xiao, Jinsong Han, Le Cheng, Kui Ren.
+- **<font color="Red">[Sensys'21]</font>** OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, Rui Xiao, **Jianwei Liu**, Jinsong Han, Kui Ren. **<font color="Red">(Best Paper Award Candidate)</font>**
+- **<font color="Red">[INFOCOM'21]</font>** RFace: Anti-Spoofing Facial Authentication Using COTS RFID, Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren. **<font color="Red">(Best Paper Award Candidate)</font>**
+- **<font color="Red">[IWQoS'21]</font>** A Behavior Privacy Preserving Method towards RF Sensing, **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren, Xufei Mao. 
+- **<font color="Red">[ICDCS'21]</font>** MandiPass: Secure and Usable User Authentication via Earphone IMU, **Jianwei Liu**, Wenfan Song, Leming Shen, Jinsong Han, Xian Xu, Kui Ren.
+- **<font color="Red">[ICDCS'21]</font>** Hand-Key: Leveraging Multiple Hand Biometrics for Attack-Resilient User Authentication Using COTS RFID, **Jianwei Liu**, Xiang Zou, Feng Liu, Jinsong Han, Xian Xu, Kui Ren.
+- **<font color="Red">[CCF Transactions on Pervasive Computing and Interaction'21]</font>** Implement of a secure selective ultrasonic microphone jammer, Yike Chen, Ming Gao, Yajie Liu, **Jianwei Liu**, Xian Xu, Le Cheng, Jinsong Han.
+- **<font color="Red">[CWSN'21]</font>** Domain-Independent Behavior Recognition Using COTS WiFi, Xiaobin Zhang, Yinghui He, **Jianwei Liu**, Hongzhe Xu.
+- **<font color="Red">[IWQoS'20]</font>** BioDraw: Reliable Multi-Factor User Authentication with One Single Finger Swipe, **Jianwei Liu**, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
+
+
 ## Contact
-
-You can use the [editor on GitHub](https://github.com/DragonflyCaptainL/DragonflyCaptainL.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DragonflyCaptainL/DragonflyCaptainL.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Email: jianweiliu@zju.edu.cn
+- Institude: School of Cyber Science and Technology, Zhejiang University, Xihu District, Hangzhou, Zhejiang Province, China
