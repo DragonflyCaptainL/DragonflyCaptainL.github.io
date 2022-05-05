@@ -14,7 +14,7 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications
-- **<font color="Red">[TDSC'22]</font>** Privacy Leakage in Wireless Sensing, **Jianwei Liu**, Xiang Zou, Leqi Zhao, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren.
+- **<font color="Red">[TDSC'22]</font>** Privacy Leakage in Wireless Charging, **Jianwei Liu**, Xiang Zou, Leqi Zhao, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren.
 - **<font color="Red">[TDSC'22]</font>** Behavior Privacy Preserving in RF Sensing, **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren. 
 - **<font color="Red">[INFOCOM'22]</font>** Physical-World Attack towards WiFi-based Behavior Recognition, **Jianwei Liu**, Yinghui He, Chaowei Xiao, Jinsong Han, Le Cheng, Kui Ren.
 - **<font color="Red">[Sensys'21]</font>** OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi, Rui Xiao, **Jianwei Liu**, Jinsong Han, Kui Ren. **<font color="Red">(Best Paper Award Candidate)</font>**
