@@ -9,7 +9,7 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 
 
 ## Education
-- Persuing Ph.D. degree since 2021
+- Pursuing Ph.D. degree since 2021
 - Master's degree from Xi'an Jiaotong University (2021)
 - B.S. degree from Northwestern Polytechnical University (2018)
 
