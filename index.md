@@ -14,6 +14,7 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications
+- **<font color="Red">[ToN'22]</font>** Reliable Multi-Factor User Authentication with One Single Finger Swipe, **Jianwei Liu**, Kaiyan Cui, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
 - **<font color="Red">[MobiCom'22]</font>** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, Weiye Xu, Wenfan Song, **Jianwei Liu**, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai Wang, Kui Ren.
 - **<font color="Red">[TMC'22]</font>** Secure User Verification and Continuous Authentication via Earphone IMU, **Jianwei Liu**, Wenfan Song, Leming Shen, Jinsong Han, Kui Ren.
 - **<font color="Red">[TDSC'22]</font>** Privacy Leakage in Wireless Charging, **Jianwei Liu**, Xiang Zou, Leqi Zhao, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren.
