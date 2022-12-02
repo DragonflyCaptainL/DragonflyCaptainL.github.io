@@ -14,8 +14,8 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications (** means co-first author)
-- **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, Xinyue Fang*, **Jianwei Liu* **, Yike Chen, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren, Gang Chen.
-- **<font color="Red">[INFOCOM'23]</font>** Breaking the Throughput Limit of LED-Camera Communication via Superposed Polarization, Xiang Zou*, **Jianwei Liu* **, Jinsong Han.
+- **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, **Xinyue Fang* **, **Jianwei Liu* **, Yike Chen, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren, Gang Chen.
+- **<font color="Red">[INFOCOM'23]</font>** Breaking the Throughput Limit of LED-Camera Communication via Superposed Polarization, **Xiang Zou* **, **Jianwei Liu* **, Jinsong Han.
 - **<font color="Red">[CBD'22]</font>** Device-free Crowd Density Estimation with Off-the-shelf WiFi Traffic, **Jianwei Liu**, Guozheng Yang, Cheng Zang, Jiajun Chen, Xianming Hu, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren.
 - **<font color="Red">[ToN'22]</font>** Reliable Multi-Factor User Authentication with One Single Finger Swipe, **Jianwei Liu**, Kaiyan Cui, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
 - **<font color="Red">[MobiCom'22]</font>** Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration, Weiye Xu, Wenfan Song, **Jianwei Liu**, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai Wang, Kui Ren.
