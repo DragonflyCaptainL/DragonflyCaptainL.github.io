@@ -13,7 +13,7 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 - Master's degree from Xi'an Jiaotong University (2021)
 - B.S. degree from Northwestern Polytechnical University (2018)
 
-## Publications (** means co-first author)
+## Publications (* means co-first author)
 - **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, Xinyue Fang<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Yike Chen, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren, Gang Chen.
 - **<font color="Red">[INFOCOM'23]</font>** Breaking the Throughput Limit of LED-Camera Communication via Superposed Polarization, Xiang Zou<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - **<font color="Red">[CBD'22]</font>** Device-free Crowd Density Estimation with Off-the-shelf WiFi Traffic, **Jianwei Liu**, Guozheng Yang, Cheng Zang, Jiajun Chen, Xianming Hu, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren.
