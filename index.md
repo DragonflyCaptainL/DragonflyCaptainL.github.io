@@ -14,7 +14,7 @@ Jianwei Liu is currently a first-year doctoral student of School of Cyber Scienc
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications (* means co-first author or corresponding author) 
-- **<font color="Red">[TOSN'23]</font>** TomFi: Small Object Tracking Using Commodity WiFi, Xiaobin Zhang, Hongzhe Xu, **Jianwei Liu**, Jinsong Han.
+- **<font color="Red">[TOSN'23]</font>** TomFi: Small Object Tracking Using Commodity WiFi, Xiaobin Zhang, Hongzhe Xu, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - **<font color="Red">[TMC'23]</font>** A Resilience Evaluation Framework on Ultrasonic Microphone Jammers, Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, **Jianwei Liu**, Li Lu, Feng Lin, Jinsong Han, Kui Ren.
 - **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, Xinyue Fang<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Yike Chen, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren, Gang Chen.
 - **<font color="Red">[INFOCOM'23]</font>** Breaking the Throughput Limit of LED-Camera Communication via Superposed Polarization, Xiang Zou<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
