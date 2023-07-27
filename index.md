@@ -14,6 +14,7 @@ Jianwei Liu is currently a second-year doctoral student of School of Cyber Scien
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications (* means co-first author or corresponding author)
+- [24] **<font color="Red">[TMC'23]</font>** Exploring Polarization in Hybrid Modulation for LED-Camera Communication, Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang.
 - [23] **<font color="Red">[TMC'23]</font>** Anti-Spoofing Facial Authentication Based on COTS RFID, Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han.
 - [22] **<font color="Red">[MobiCom'23]</font>** SenCom: Integrated Sensing and Communication with Practical WiFi, Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han, Kui Ren. (Conditionally accepted)
 - [21] **<font color="Red">[IWQoS'23]</font>** WiHunter: Enabling Real-time Small Object Detection via Wireless Sensing, Xiang Zou<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Jinsong Han, Zhi Wang, Wei Xi.
