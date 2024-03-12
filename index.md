@@ -14,7 +14,7 @@ Jianwei Liu is currently a third-year doctoral student of School of Cyber Scienc
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 ## Publications (* means co-first author or corresponding author)
-- [26] **<font color="Red">[MobiSys'24]</font>** FedConv: Learning on Models for Heterogeneous Federated Clients, Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han.
+<!-- - [26] **<font color="Red">[MobiSys'24]</font>** FedConv: Learning on Models for Heterogeneous Federated Clients, Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han.-->
 - [25] **<font color="Red">[INFOCOM'24]</font>** One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi, Leqi Zhao, Rui Xiao, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - [24] **<font color="Red">[TMC'23]</font>** Exploring Polarization in Hybrid Modulation for LED-Camera Communication, Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang.
 - [23] **<font color="Red">[TMC'23]</font>** Anti-Spoofing Facial Authentication Based on COTS RFID, Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han.
