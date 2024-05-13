@@ -1,5 +1,5 @@
 ## Biography
-Jianwei Liu is currently a third-year doctoral student of School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He joined Prof. Jinsong Han’s research group in 2018, mainly focusing on Mobile computing & Wireless Sensing & IoT Security & Artificial Intelligence. 
+Jianwei Liu received the Ph.D. degree from the College of Computer Science and Technology at Zhejiang University. He joined Prof. Jinsong Han’s research group in 2018, mainly focusing on Mobile computing & Wireless Sensing & IoT Security & Artificial Intelligence. 
 
 ## Research Interests
 -  Mobile Computing
