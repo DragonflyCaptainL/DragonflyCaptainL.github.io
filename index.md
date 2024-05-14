@@ -27,7 +27,7 @@ Jianwei Liu received the Ph.D. degree from the College of Computer Science and T
 - [20] **<font color="Red">[TDSC'23]</font>** Time to Think the Security of WiFi-based Behavior Recognition Systems, **Jianwei Liu**, Yinghui He, Chaowei Xiao, Jinsong Han, Kui Ren.
 - [19] **<font color="Red">[TOSN'23]</font>** TomFi: Small Object Tracking Using Commodity WiFi, Xiaobin Zhang, Hongzhe Xu, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - [18] **<font color="Red">[TMC'23]</font>** A Resilience Evaluation Framework on Ultrasonic Microphone Jammers, Ming Gao, Yike Chen, Yimin Li, Lingfeng Zhang, **Jianwei Liu**, Li Lu, Feng Lin, Jinsong Han, Kui Ren.
-- [17] **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, Xinyue Fang<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Yike Chen, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren, Gang Chen.
+- [17] **<font color="Red">[INFOCOM'23]</font>** Nowhere to Hide: Detecting Live Video Forgery via Vision-WiFi Silhouette Correspondence, Xinyue Fang<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Yike Chen, Jinsong Han, Kui Ren, Gang Chen.
 - [16] **<font color="Red">[INFOCOM'23]</font>** Breaking the Throughput Limit of LED-Camera Communication via Superposed Polarization, Xiang Zou<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - [15] **<font color="Red">[CBD'22]</font>** Device-free Crowd Density Estimation with Off-the-shelf WiFi Traffic, **Jianwei Liu**, Guozheng Yang, Cheng Zang, Jiajun Chen, Xianming Hu, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren.
 - [14] **<font color="Red">[ToN'22]</font>** Reliable Multi-Factor User Authentication with One Single Finger Swipe, **Jianwei Liu**, Kaiyan Cui, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
