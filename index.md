@@ -18,7 +18,7 @@ Jianwei Liu received the Ph.D. degree from the College of Computer Science and T
 - [29] **<font color="Red">[JSAC'24]</font>** Forward-Compatible Integrated Sensing and Communication for WiFi, Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han.
 - [28] **<font color="Red">[IWQoS'24]</font>** WristPass: Secure Wearable Continuous Authentication via Ultrasonic Sensing, Xinyue Fang, **Jianwei Liu**, Yike Chen, Xian Xu, Jinsong Han.
 - [27] **<font color="Red">[IWQoS'24]</font>** Manipulating Semantic Communication by Adding Adversarial Perturbations to Wireless Channel, **Jianwei Liu**, Yinghui He, Weiye Xu, Yifan Xie, Jinsong Han.
-- [26] **<font color="Red">[MobiSys'24]</font>** FedConv: Learning on Models for Heterogeneous Federated Clients, Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han.
+- [26] **<font color="Red">[MobiSys'24]</font>** FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients, Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han.
 - [25] **<font color="Red">[INFOCOM'24]</font>** One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi, Leqi Zhao, Rui Xiao, **Jianwei Liu<sup>*</sup>**, Jinsong Han.
 - [24] **<font color="Red">[TMC'23]</font>** Exploring Polarization in Hybrid Modulation for LED-Camera Communication, Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang.
 - [23] **<font color="Red">[TMC'23]</font>** Anti-Spoofing Facial Authentication Based on COTS RFID, Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han.
