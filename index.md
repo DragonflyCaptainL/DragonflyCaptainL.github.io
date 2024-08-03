@@ -15,6 +15,8 @@ Jianwei Liu received the Ph.D. degree from the School of Cyber Science and Techn
 
 ## Publications (* means co-first author or corresponding author)
 <!-- - [26] **<font color="Red">[MobiSys'24]</font>** FedConv: Learning on Models for Heterogeneous Federated Clients, Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han.-->
+- [31] **<font color="Red">[Ubicomp/IMWUT'24]</font>** PuppetMouse: Practical and Contactless Mouse Manipulation Attack via Intentional Electromagnetic Interference Injection, Wenfan Song, **Jianwei Liu**, Jinsong Han.
+- [30] **<font color="Red">[RAID'24]</font>** Replay-resistant Disk Fingerprinting via Unintentional Electromagnetic Emanations, Wenfan Song, **Jianwei Liu**, Yajie Liu, Jinsong Han.
 - [29] **<font color="Red">[JSAC'24]</font>** Forward-Compatible Integrated Sensing and Communication for WiFi, Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han.
 - [28] **<font color="Red">[IWQoS'24]</font>** WristPass: Secure Wearable Continuous Authentication via Ultrasonic Sensing, Xinyue Fang, **Jianwei Liu**, Yike Chen, Xian Xu, Jinsong Han.
 - [27] **<font color="Red">[IWQoS'24]</font>** Manipulating Semantic Communication by Adding Adversarial Perturbations to Wireless Channel, **Jianwei Liu**, Yinghui He, Weiye Xu, Yifan Xie, Jinsong Han.
