@@ -14,6 +14,8 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 #### Publications (* means co-first author or corresponding author)
+- **<font color="Red">[GLOBECOM'25]</font>** Meta-GLoc: GNN for Adaptive and Robust WiFi Localization with Meta-Learning. Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu.
+- **<font color="Red">[MASS'25]</font>** Argus-ear: Unconstrained-Vocabulary Sound Eavesdropping via μm-level mmWave Sensing. Jiyang Chen, **Jianwei Liu**, Jinsong Han.
 - **<font color="Red">[TMC'25]</font>** Hierarchical and Heterogeneous Federated Learning via a Learning-on-Model Paradigm. Leming Sheng, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiao-Yong Wei, **Jianwei Liu**, Jinsong Han.
 - **<font color="Red">[JSAC'25]</font>** Efficient One-shot Gesture Recognition for WiFi ISAC via Aug-meta Learning. **Jianwei Liu**, Jiantao Yuan, Guanding Yu, Jinsong Han.
 - **<font color="Red">[Security'25]</font>** DiskSpy: Exploring a Long-Range Covert-Channel Attack via mmWave Sensing of μm-level HDD Vibrations. Weiye Xu, Danli Wen, **Jianwei Liu**, Zixin Lin, Yuanqing Zheng, Xian Xu, Jinsong Han.
