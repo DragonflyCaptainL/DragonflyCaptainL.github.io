@@ -14,6 +14,7 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 #### Publications (* means co-first author or corresponding author)
+- **<font color="Red">[IEEE TDSC'25]</font>** Anti-Spoofing and Mask-Supported Face Authentication using mmWave without On-site Registration. Wenfan Song, Weiye Xu, **Jianwei Liu**, Yuanqing Zheng, Xinhuai Wang, Xian Xu, Jinsong Han.
 - **<font color="Red">[IEEE TDSC'25]</font>** Replay-resistant Few-shot Disk Authentication using Electromagnetic Fingerprint. **Jianwei Liu**, Wenfan Song, Yajie Liu, Jiantao Yuan, Guanding Yu, Jinsong Han.
 - **<font color="Red">[IEEE GLOBECOM'25]</font>** Meta-GLoc: GNN for Adaptive and Robust WiFi Localization with Meta-Learning. Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu.
 - **<font color="Red">[IEEE MASS'25]</font>** Argus-ear: Unconstrained-Vocabulary Sound Eavesdropping via μm-level mmWave Sensing. Jiyang Chen, **Jianwei Liu**, Jinsong Han.
