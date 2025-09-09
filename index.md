@@ -20,6 +20,7 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - **<font color="Red">[IEEE TMC'25]</font>** Hierarchical and Heterogeneous Federated Learning via a Learning-on-Model Paradigm. Leming Sheng, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiao-Yong Wei, **Jianwei Liu**, Jinsong Han.
 - **<font color="Red">[IEEE JSAC'25]</font>** Efficient One-shot Gesture Recognition for WiFi ISAC via Aug-meta Learning. **Jianwei Liu**, Jiantao Yuan, Guanding Yu, Jinsong Han.
 - **<font color="Red">[USENIX Security'25]</font>** DiskSpy: Exploring a Long-Range Covert-Channel Attack via mmWave Sensing of μm-level HDD Vibrations. Weiye Xu, Danli Wen, **Jianwei Liu**, Zixin Lin, Yuanqing Zheng, Xian Xu, Jinsong Han.
+- **<font color="Red">[CWSN'24]</font>** EMLogger: Inferring Computer Activities via EM Side-Channel of Disks. Wenfan Song, **Jianwei Liu**, Jinsong Han.
 - **<font color="Red">[IEEE TMC'24]</font>** Real-Time Video Forgery Detection via Vision-WiFi Silhouette Correspondence. **Jianwei Liu**, Xinyue Fang, Yike Chen, Jiantao Yuan, Guanding Yu, Jinsong Han.
 - **<font color="Red">[IEEE ICPADS'24]</font>** UltraFace: Secure User-friendly Facial Authentication on Smartphones Using Ultrasound. Xinyue Fang, **Jianwei Liu**, Yike Chen, Jinsong Han.
 - **<font color="Red">[ACM Ubicomp/IMWUT'24]</font>** PuppetMouse: Practical and Contactless Mouse Manipulation Attack via Intentional Electromagnetic Interference Injection. Wenfan Song, **Jianwei Liu**, Jinsong Han. [Demo Video](https://files.catbox.moe/ou5xdw.mp4)
