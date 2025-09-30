@@ -54,8 +54,8 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - **<font color="Red">[IEEE ICDCS'21]</font>** Hand-Key: Leveraging Multiple Hand Biometrics for Attack-Resilient User Authentication Using COTS RFID. **Jianwei Liu**, Xiang Zou, Feng Liu, Jinsong Han, Xian Xu, Kui Ren.
 - **<font color="Red">[CCF Transactions on Pervasive Computing and Interaction'21]</font>** Implement of a secure selective ultrasonic microphone jammer. Yike Chen, Ming Gao, Yajie Liu, **Jianwei Liu**, Xian Xu, Le Cheng, Jinsong Han.
 - **<font color="Red">[CWSN'21]</font>** Domain-Independent Behavior Recognition Using COTS WiFi. Xiaobin Zhang, Yinghui He, **Jianwei Liu**, Hongzhe Xu.
-- **<font color="Red">[IEEE/ACM IWQoS'20]</font>** BioDraw: Reliable Multi-Factor User Authentication with One Single Finger Swipe. **Jianwei Liu**, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
-
+- **<font color="Red">[IEEE/ACM IWQoS'20]</font>** **Jianwei Liu**, Xiang Zou, Jinsong Han, Feng Lin, Kui Ren.
+  <u>BioDraw: Reliable Multi-Factor User Authentication with One Single Finger Swipe</u>. 
 
 #### Contact
 - Email: jianweiliu@zju.edu.cn
