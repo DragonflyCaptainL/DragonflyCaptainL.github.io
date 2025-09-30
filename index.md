@@ -30,7 +30,7 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - **<font color="Red">[IEEE/ACM IWQoS'24]</font>** Xinyue Fang, **Jianwei Liu**, Yike Chen, Xian Xu, Jinsong Han. <u>WristPass: Secure Wearable Continuous Authentication via Ultrasonic Sensing</u>. 
 - **<font color="Red">[IEEE/ACM IWQoS'24]</font>** **Jianwei Liu**, Yinghui He, Weiye Xu, Yifan Xie, Jinsong Han. <u>Manipulating Semantic Communication by Adding Adversarial Perturbations to Wireless Channel</u>. 
 - **<font color="Red">[ACM MobiSys'24]</font>** Leming Shen, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiaoyong Wei, **Jianwei Liu**, Jinsong Han. <u>FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients</u>. 
-- **<font color="Red">[IEEE INFOCOM'24]</font>** Leqi Zhao, Rui Xiao, **Jianwei Liu<sup>*</sup>**, Jinsong Han. <u>One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi</u>. 
+- **<font color="Red">[IEEE INFOCOM'24]</font>** Leqi Zhao, Rui Xiao, **Jianwei Liu<sup>*</sup>**, Jinsong Han<sup>*</sup>. <u>One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi</u>. 
 - **<font color="Red">[IEEE TMC'23]</font>** Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang. <u>Exploring Polarization in Hybrid Modulation for LED-Camera Communication</u>. 
 - **<font color="Red">[IEEE TMC'23]</font>** Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han. <u>Anti-Spoofing Facial Authentication Based on COTS RFID</u>. 
 - **<font color="Red">[ACM MobiCom'23]</font>** Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han, Kui Ren. <u>SenCom: Integrated Sensing and Communication with Practical WiFi</u>. 
