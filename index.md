@@ -14,6 +14,8 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 #### Publications (* means co-first author or corresponding author)
+- **<font color="Red">[IEEE TCOM'25]</font>** Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>*</sup>**, Yinghui He<sup>*</sup>, Guanding Yu, Jinsong Han. <u> Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness</u>. 
+- **<font color="Red">[IEEE TCOM'25]</font>** Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. <u>Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios</u>. 
 - **<font color="Red">[IEEE TDSC'25]</font>** Wenfan Song, Weiye Xu, **Jianwei Liu**, Yuanqing Zheng, Xinhuai Wang, Xian Xu, Jinsong Han. <u>Anti-Spoofing and Mask-Supported Face Authentication using mmWave without On-site Registration</u>. 
 - **<font color="Red">[IEEE TDSC'25]</font>** **Jianwei Liu**, Wenfan Song, Yajie Liu, Jiantao Yuan, Guanding Yu, Jinsong Han. <u>Replay-resistant Few-shot Disk Authentication using Electromagnetic Fingerprint</u>. 
 - **<font color="Red">[IEEE GLOBECOM'25]</font>** Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. <u>Meta-GLoc: GNN for Adaptive and Robust WiFi Localization with Meta-Learning</u>. 
