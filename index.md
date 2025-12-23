@@ -47,7 +47,7 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - **<font color="Red">[ACM MobiCom'22]</font>** Weiye Xu, Wenfan Song, **Jianwei Liu**, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai Wang, Kui Ren. <u>Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration</u>. 
 - **<font color="Red">[IEEE TMC'22]</font>** **Jianwei Liu**, Wenfan Song, Leming Shen, Jinsong Han, Kui Ren. <u>Secure User Verification and Continuous Authentication via Earphone IMU</u>. 
 - **<font color="Red">[IEEE TDSC'22]</font>** **Jianwei Liu**, Xiang Zou, Leqi Zhao, Yusheng Tao, Sideng Hu, Jinsong Han, Kui Ren. <u>Privacy Leakage in Wireless Charging</u>. 
-- **<font color="Red">[TDSC'22]</font>** **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren. <u>Behavior Privacy Preserving in RF Sensing</u>. 
+- **<font color="Red">[IEEE TDSC'222</font>** **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren. <u>Behavior Privacy Preserving in RF Sensing</u>. 
 - **<font color="Red">[IEEE INFOCOM'22]</font>** **Jianwei Liu**, Yinghui He, Chaowei Xiao, Jinsong Han, Le Cheng, Kui Ren. <u>Physical-World Attack towards WiFi-based Behavior Recognition</u>. 
 - **<font color="Red">[ACM SenSys'21]</font>** Rui Xiao, **Jianwei Liu**, Jinsong Han, Kui Ren. <u>OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi</u>. **<font color="Red">(Best Paper Award Candidate)</font>**
 - **<font color="Red">[IEEE INFOCOM'21]</font>** Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren. <u>RFace: Anti-Spoofing Facial Authentication Using COTS RFID</u>.  **<font color="Red">(Best Paper Award Candidate)</font>**
