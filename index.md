@@ -14,6 +14,8 @@ Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and 
 - B.S. degree from Northwestern Polytechnical University (2018)
 
 #### Publications (* means co-first author or corresponding author)
+- **<font color="Red">[IEEE IoTJ'26]</font>** Hefei Wang, **Jianwei Liu<sup>*</sup>**, Yinghui He<sup>*</sup>, Guanding Yu, Jinsong Han. <u>High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi</u>. 
+- **<font color="Red">[电子学报'26]</font>** **刘建伟**, 陈佳彤, 姚信威, 韩劲松. <u>基于行为多样性数据增强的RFID手势识别技术</u>. 
 - **<font color="Red">[IEEE INFOCOM'26]</font>** Leqi Zhao, Luxin Shi, **Jianwei Liu<sup>*</sup>**, Rui Xiao<sup>*</sup>, Jinsong Han. <u>EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing</u>. 
 - **<font color="Red">[IEEE TMC'25]</font>** Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>*</sup>**, Yinghui He<sup>*</sup>, Guanding Yu, Jinsong Han. <u> Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness</u>. 
 - **<font color="Red">[IEEE TCOM'25]</font>** Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. <u>Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios</u>. 
