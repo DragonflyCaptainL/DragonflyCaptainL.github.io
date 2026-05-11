@@ -56,21 +56,21 @@ If you have any questions about my research, or if you are interested in potenti
 
 # 📝 Publications \* co-first author &nbsp;&nbsp; # corresponding author
 ## Conference
-2. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'26]</font></span> Leqi Zhao, Luxin Shi, **Jianwei Liu<sup>#</sup>**, Rui Xiao<sup>#</sup>, Jinsong Han. “EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing.” (CCF-A)
+2. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'26]</font></span> Leqi Zhao, Luxin Shi, **Jianwei Liu<sup>#</sup>**, Rui Xiao<sup>#</sup>, Jinsong Han. “EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing”. (CCF-A)
 
 ## Journal
-1. <span class="pub-tag"><font color="Red">[IEEE IOT-J'26]</font></span> Hefei Wang, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "[High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi](https://ieeexplore.ieee.org/document/11494783)," [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4)
-1. <span class="pub-tag"><font color="Red">[电子学报C'26]</font></span> **刘建伟**, 陈佳彤, 姚信威, 韩劲松, “[基于行为多样性数据增强的RFID手势识别技术],” [[PDF]](https://www.ejournal.org.cn/previewFile?id=106574720&type=pdf&lang=zh)
-1. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "[Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness]," [[PDF]]
-1. <span class="pub-tag"><font color="Red">[IEEE TCOM'265]</font></span> Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. “[Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios],” [[PDF]]
-1. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> Wenfan Song, Weiye Xu, **Jianwei Liu**, Yuanqing Zheng, Xinhuai Wang, Xian Xu, Jinsong Han. “[Anti-Spoofing and Mask-Supported Face Authentication using mmWave without On-site Registration],”[[PDF]]
-2. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> **Jianwei Liu**, Wenfan Song, Yajie Liu, Jiantao Yuan, Guanding Yu, Jinsong Han. “[Replay-resistant Few-shot Disk Authentication using Electromagnetic Fingerprint],” [[PDF]]
-3. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Leming Sheng, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiao-Yong Wei, **Jianwei Liu**, Jinsong Han. “[Hierarchical and Heterogeneous Federated Learning via a Learning-on-Model Paradigm],” [[PDF]]
-4. <span class="pub-tag"><font color="Red">[IEEE JSAC'25]</font></span>  **Jianwei Liu**, Jiantao Yuan, Guanding Yu, Jinsong Han. “[Efficient One-shot Gesture Recognition for WiFi ISAC via Aug-meta Learning],” [[PDF]]
-5. <span class="pub-tag"><font color="Red">[IEEE TMC'24]</font></span> **Jianwei Liu**, Xinyue Fang, Yike Chen, Jiantao Yuan, Guanding Yu, Jinsong Han. “[Real-Time Video Forgery Detection via Vision-WiFi Silhouette Correspondence],” [[PDF]]
-6. <span class="pub-tag"><font color="Red">[IEEE JSAC'24]</font></span> ** Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han.  “[Forward-Compatible Integrated Sensing and Communication for WiFi],” [[PDF]]
-7. <span class="pub-tag"><font color="Red">[IEEE TMC'23]</font></span> Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang. “[Exploring Polarization in Hybrid Modulation for LED-Camera Communication],” [[PDF]]
-9. <span class="pub-tag"><font color="Red">[IEEE TMC'23]</font></span> Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han. “[Anti-Spoofing Facial Authentication Based on COTS RFID],” [[PDF]]
+1. <span class="pub-tag"><font color="Red">[IEEE IOT-J'26]</font></span> Hefei Wang, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi", [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4)
+1. <span class="pub-tag"><font color="Red">[电子学报C'26]</font></span> **刘建伟**, 陈佳彤, 姚信威, 韩劲松, “基于行为多样性数据增强的RFID手势识别技术”, [[PDF]](https://www.ejournal.org.cn/previewFile?id=106574720&type=pdf&lang=zh)
+1. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness", [[PDF]]
+1. <span class="pub-tag"><font color="Red">[IEEE TCOM'265]</font></span> Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. “Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios”, [[PDF]]
+1. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> Wenfan Song, Weiye Xu, **Jianwei Liu**, Yuanqing Zheng, Xinhuai Wang, Xian Xu, Jinsong Han. “Anti-Spoofing and Mask-Supported Face Authentication using mmWave without On-site Registration”, [[PDF]]
+2. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> **Jianwei Liu**, Wenfan Song, Yajie Liu, Jiantao Yuan, Guanding Yu, Jinsong Han. “Replay-resistant Few-shot Disk Authentication using Electromagnetic Fingerprint”, [[PDF]]
+3. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Leming Sheng, Qiang Yang, Kaiyan Cui, Yuanqing Zheng, Xiao-Yong Wei, **Jianwei Liu**, Jinsong Han. “Hierarchical and Heterogeneous Federated Learning via a Learning-on-Model Paradigm”, [[PDF]]
+4. <span class="pub-tag"><font color="Red">[IEEE JSAC'25]</font></span>  **Jianwei Liu**, Jiantao Yuan, Guanding Yu, Jinsong Han. “Efficient One-shot Gesture Recognition for WiFi ISAC via Aug-meta Learning”, [[PDF]]
+5. <span class="pub-tag"><font color="Red">[IEEE TMC'24]</font></span> **Jianwei Liu**, Xinyue Fang, Yike Chen, Jiantao Yuan, Guanding Yu, Jinsong Han. “Real-Time Video Forgery Detection via Vision-WiFi Silhouette Correspondence]", [[PDF]]
+6. <span class="pub-tag"><font color="Red">[IEEE JSAC'24]</font></span> ** Yinghui He<sup>*</sup>, **Jianwei Liu<sup>*</sup>**, Mo Li, Guanding Yu, Jinsong Han.  “Forward-Compatible Integrated Sensing and Communication for WiFi”, [[PDF]]
+7. <span class="pub-tag"><font color="Red">[IEEE TMC'23]</font></span> Xiang Zou, **Jianwei Liu**, Jinsong Han, Zhi Wang. “Exploring Polarization in Hybrid Modulation for LED-Camera Communication”, [[PDF]]
+9. <span class="pub-tag"><font color="Red">[IEEE TMC'23]</font></span> Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Fu Xiao, Jinsong Han. “Anti-Spoofing Facial Authentication Based on COTS RFID”, [[PDF]]
 
 
 # 🏅 Honors and Awards
