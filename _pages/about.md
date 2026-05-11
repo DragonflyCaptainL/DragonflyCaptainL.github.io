@@ -56,7 +56,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 # 📝 Publications \* co-first author &nbsp;&nbsp; # corresponding author
 ## Journal
-1. <span class="pub-tag">[IEEE IOT-J'26]</span> Hefei Wang, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "[High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi]" [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4)
+1. <span class="pub-tag"><font color="Red">[IEEE IOT-J'26]</font></span> Hefei Wang, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "[High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi]" [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4)
 1. <span class="pub-tag">[电子学报C'26]</span> **刘建伟**, 陈佳彤, 姚信威, 韩劲松, “[基于行为多样性数据增强的RFID手势识别技术],” [[PDF]](https://www.ejournal.org.cn/previewFile?id=106574720&type=pdf&lang=zh)
 1. <span class="pub-tag">[IEEE TMC'25]</span> Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "[Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness]," [[PDF]]
 1. <span class="pub-tag">[IEEE TCOM'265]</span> Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. “[Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios],” [[PDF]]
