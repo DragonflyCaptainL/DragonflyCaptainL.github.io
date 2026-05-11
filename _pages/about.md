@@ -33,7 +33,7 @@ redirect_from:
 
 <p style="font-size: 1.05em; line-height: 1.8;">
 Jianwei Liu (刘建伟) is a postdoctoral researcher at Zhejiang University and Hangzhou City University. He received the Ph.D. degree from the School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. He joined Prof. Jinsong Han’s research group in 2018, mainly focusing on Mobile computing & Wireless Sensing & IoT Security & Artificial Intelligence. He has published 40+ papers with 
- <a href='https://scholar.google.com/citations?user=X0RQ4XwAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=X0RQ4XwAAAAJ&hl=zh-CN'> 750</a>.
 <br>
 If you have any questions about my research, or if you are interested in potential collaboration, please feel free to contact me via email: jianweiliu@zju.edu.cn.
 </p>
@@ -48,7 +48,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 # 💼 Experience
 
-- 2024.7 – Present, Postdoctoral Researcher, College of Information Science and Electronic Engineering, Zhejiang University, and School of Information and Electrical Engineering, working with [Prof. Guanding Yu](https://www.mhchen.com/](https://scholar.google.com/citations?hl=zh-CN&user=EMADq2wAAAAJ) and Jiantao Yuan [Prof. Jiantao Yuan](http://person.zucc.edu.cn/details?teacherId=8220).
+- 2024.7 – Present, Postdoctoral Researcher, College of Information Science and Electronic Engineering, Zhejiang University, and School of Information and Electrical Engineering, working with [Prof. Guanding Yu](https://scholar.google.com/citations?hl=zh-CN&user=EMADq2wAAAAJ) and [Prof. Jiantao Yuan](http://person.zucc.edu.cn/details?teacherId=8220).
 
 # ⭐ News
 
