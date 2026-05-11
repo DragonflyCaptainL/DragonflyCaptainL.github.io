@@ -74,6 +74,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 
 # 🏅 Honors and Awards
+- 2025.12, Selected for the **Young Talent Support Program of the Zhejiang Association for Science and Technology (2026-2028)** (2026-2028年度浙江省科协青年人才托举培养项目)
 - 2021.05, **Best Paper Candidate**, IEEE INFOCOM
 - 2021.11, **Best Paper Candidate**, ACM SenSys 
   
