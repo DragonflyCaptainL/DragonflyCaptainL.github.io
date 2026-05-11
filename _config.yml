@@ -15,21 +15,21 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  google805a4993da2f4961 # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 0BFBE5AD9B6E05468E539FB5CFE4D562 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Yinghui He"
-  avatar           : "images/Y_He.png"
-  bio              : "Nanyang Technological University"
-  location         : "Singapore"
+  name             : "Jianwei Liu"
+  avatar           : "images/jianwei.jpg"
+  bio              : "Zhejiang University"
+  location         : "China"
   employer         :  #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ldVs-W0AAAAJ&hl"
-  email            : "yinghui.he@ntu.edu.sg"
-  researchgate     : "https://www.researchgate.net/profile/Yinghui-He?ev=hdr_xprf"
+  googlescholar    : "https://scholar.google.com/citations?user=X0RQ4XwAAAAJ&hl=zh-CN"
+  email            : "jianweiliu@zju.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jianwei-Liu-23/research"
   uri              : 
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yinghui-he-1a641a2a2"
+  linkedin         : #"yinghui-he-1a641a2a2"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-5560-1327"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9003-8667"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
