@@ -47,11 +47,11 @@ If you have any questions about my research, or if you are interested in potenti
 
 # 💼 Experience
 
-- 2024.7 – Present, Postdoctoral Researcher, College of Information Science and Electronic Engineering, Zhejiang University, and School of Information and Electrical Engineering, working with [Prof. Guanding Yu](https://scholar.google.com/citations?hl=zh-CN&user=EMADq2wAAAAJ) and [Prof. Jiantao Yuan](http://person.zucc.edu.cn/details?teacherId=8220).
+- 2024.7 – Present, Postdoctoral Researcher, College of Information Science and Electronic Engineering, Zhejiang University, and School of Information and Electrical Engineering, <br> working with [Prof. Guanding Yu](https://scholar.google.com/citations?hl=zh-CN&user=EMADq2wAAAAJ) and [Prof. Jiantao Yuan](http://person.zucc.edu.cn/details?teacherId=8220).
 
 # ⭐ News
 
-- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the demo video.
+- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the [demo video](pdf/RespirFi_demo.mp4).
 - 2026.03: A paper on RFID data augmentation was accepted by Chinese Journal of Electronics (电子学报).
 
 
@@ -76,8 +76,8 @@ If you have any questions about my research, or if you are interested in potenti
 18. <span class="pub-tag"><font color="Red">[IEEE CBD'22]</font></span> **Jianwei Liu**, Guozheng Yang, Cheng Zang, Jiajun Chen, Xianming Hu, Jingzhi Zhang, Yinghui He, Jinsong Han, Kui Ren. "Device-free Crowd Density Estimation with Off-the-shelf WiFi Traffic". [[PDF]](pdf/crowd_density_estimation_CBD22.pdf)
 19. <span class="pub-tag"><font color="Red">[ACM MobiCom'22]</font></span> Weiye Xu, Wenfan Song, **Jianwei Liu**, Yajie Liu, Xin Cui, Yuanqing Zheng, Jinsong Han, Xinhuai Wang, Kui Ren. "Mask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without On-site Registration". [[PDF]](pdf/mmface_mobicom22.pdf) (CCF A)
 20. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'22]</font></span> **Jianwei Liu**, Yinghui He, Chaowei Xiao, Jinsong Han, Le Cheng, Kui Ren. "Physical-World Attack towards WiFi-based Behavior Recognition". [[PDF]](pdf/WiFi_attack_infocom22.pdf) (CCF A)
-21. <span class="pub-tag"><font color="Red">[ACM SenSys'21]</font></span> Rui Xiao, **Jianwei Liu**, Jinsong Han, Kui Ren. "OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi". [[PDF]](pdf/OneFi_SenSys21.pdf) (CCF A, **<font color="Red">(Best Paper Award Candidate)</font>**)
-22. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'21]</font></span> Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren. "RFace: Anti-Spoofing Facial Authentication Using COTS RFID". [[PDF]](pdf/RFace_infocom21.pdf) (CCF A, **<font color="Red">(Best Paper Award Candidate)</font>**)
+21. <span class="pub-tag"><font color="Red">[ACM SenSys'21]</font></span> Rui Xiao, **Jianwei Liu**, Jinsong Han, Kui Ren. "OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi". [[PDF]](pdf/OneFi_SenSys21.pdf) (CCF A, **<font color="Red">Best Paper Award Candidate</font>**)
+22. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'21]</font></span> Weiye Xu, **Jianwei Liu**, Shimin Zhang, Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren. "RFace: Anti-Spoofing Facial Authentication Using COTS RFID". [[PDF]](pdf/RFace_infocom21.pdf) (CCF A, **<font color="Red">Best Paper Award Candidate</font>**)
 23. <span class="pub-tag"><font color="Red">[IEEE/ACM IWQoS'21]</font></span> **Jianwei Liu**, Chaowei Xiao, Kaiyan Cui, Jinsong Han, Xian Xu, Kui Ren, Xufei Mao. "A Behavior Privacy Preserving Method towards RF Sensing". [[PDF]](pdf/BPCloak_iwqos21.pdf) (CCF B)
 24. <span class="pub-tag"><font color="Red">[IEEE ICDCS'21]</font></span> **Jianwei Liu**, Wenfan Song, Leming Shen, Jinsong Han, Xian Xu, Kui Ren. "MandiPass: Secure and Usable User Authentication via Earphone IMU". [[PDF]](pdf/MANPass_icdcs21.pdf) (CCF B)
 25. <span class="pub-tag"><font color="Red">[IEEE ICDCS'21]</font></span> **Jianwei Liu**, Xiang Zou, Feng Liu, Jinsong Han, Xian Xu, Kui Ren. "Hand-Key: Leveraging Multiple Hand Biometrics for Attack-Resilient User Authentication Using COTS RFID". [[PDF]](pdf/hand_key_icdcs21.pdf) (CCF B)
@@ -122,7 +122,7 @@ If you have any questions about my research, or if you are interested in potenti
   
 # 🤝 Professional Service
 - Guest editor for Electronics
-- Reviewer for leading journals including IEEE JSAC, IEEE TMC, ACM TKDD, IEEE IoTJ, and Computer Networks.
+- Reviewer for leading journals including IEEE JSAC, IEEE TMC, ACM TIOT, ACM TKDD, IEEE IoTJ, and Computer Networks.
 - Reviewer for international conferences including IEEE GLOBECOM 2024, IEEE ICPADS 2025, MSN 2024, CSAE 2023.
 
 
