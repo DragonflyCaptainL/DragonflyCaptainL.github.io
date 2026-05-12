@@ -87,7 +87,7 @@ If you have any questions about my research, or if you are interested in potenti
 ## Journal
 1. <span class="pub-tag"><font color="Red">[IEEE IOT-J'26]</font></span> Hefei Wang, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "High-Fidelity and Location-Robust Respiratory Waveform Monitoring with Single-Antenna WiFi", [[PDF]](https://arxiv.org/pdf/2604.20397) [[demo]](pdf/RespirFi_demo.mp4) 
 1. <span class="pub-tag"><font color="Red">[电子学报'26]</font></span> **刘建伟**, 陈佳彤, 姚信威, 韩劲松, “基于行为多样性数据增强的RFID手势识别技术”, [[PDF]](https://www.ejournal.org.cn/previewFile?id=106574720&type=pdf&lang=zh) (CCF A)
-1. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness", [[PDF]] (CCF A)
+1. <span class="pub-tag"><font color="Red">[IEEE TMC'25]</font></span> Ziqi Ye, Qiqi Xiao, **Jianwei Liu<sup>#</sup>**, Yinghui He<sup>#</sup>, Guanding Yu, Jinsong Han. "Practical WiFi Indoor Localization: Unleashing the Potential of GNNs for Accuracy and Robustness", [[PDF]](https://www.researchgate.net/publication/398396057_Practical_WiFi_Indoor_Localization_Unleashing_the_Potential_of_GNNs_for_Accuracy_and_Robustness) (CCF A)
 1. <span class="pub-tag"><font color="Red">[IEEE TCOM'265]</font></span> Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. “Meta-SimGNN: Adaptive and Robust WiFi Localization Across Dynamic Configurations and Diverse Scenarios”, [[PDF]] (CCF B)
 1. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> Wenfan Song, Weiye Xu, **Jianwei Liu**, Yuanqing Zheng, Xinhuai Wang, Xian Xu, Jinsong Han. “Anti-Spoofing and Mask-Supported Face Authentication using mmWave without On-site Registration”, [[PDF]] (CCF A)
 2. <span class="pub-tag"><font color="Red">[IEEE TDSC'25]</font></span> **Jianwei Liu**, Wenfan Song, Yajie Liu, Jiantao Yuan, Guanding Yu, Jinsong Han. “Replay-resistant Few-shot Disk Authentication using Electromagnetic Fingerprint”, [[PDF]] (CCF A)
@@ -113,7 +113,7 @@ If you have any questions about my research, or if you are interested in potenti
 - 2022-2023, **Outstanding Graduate Student, Zhejiang University** (浙江大学优秀研究生)
 - 2022, **Third Prize (Team), East China Regional, “GigaDevice Cup” 17th China Graduate Electronic Design Contest** (“兆易创新杯”第十七届中国研究生电子设计竞赛华东分赛区团队三等奖)
 - 2022.8, **Second Prize, East China Regional, China Collegiate Computing Contest – Network Technology Challenge (2022)** (中国高校计算机大赛2022网络技术挑战赛华东赛区二等奖)
-- 2021-2022, **National Scholarship for Doctoral Students, Zhejiang University”“ (浙江大学博士生国家奖学金)
+- 2021-2022, **National Scholarship for Doctoral Students, Zhejiang University** (浙江大学博士生国家奖学金)
 - 2021-2022, **First-Class Academic Scholarship, Zhejiang University** (浙江大学一等学业奖学金) 
 - 2021-2022, **Outstanding Graduate Student, Zhejiang University** (浙江大学优秀研究生)
 - 2021.10, **First Prize, National Finals, China Collegiate Computing Contest – Network Technology Challenge (2021)** (中国高校计算机大赛2021网络技术挑战赛总决赛一等奖)
