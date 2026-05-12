@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jianwei Liu"
-  avatar           : "images/jianwei.jpg"
+  avatar           : "images/jianwei.png"
   bio              : "Zhejiang University"
   location         : "China"
   employer         :  #"Hefei General Machinery Research Institute"
