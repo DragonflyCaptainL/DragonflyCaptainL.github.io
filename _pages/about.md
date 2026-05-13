@@ -55,7 +55,7 @@ If you have any questions about my research, or if you are interested in potenti
 - 2026.03: A paper on RFID data augmentation was accepted by Chinese Journal of Electronics (电子学报).
 
 
-# 📝 Publications \* co-first author &nbsp;&nbsp; # corresponding author
+# 📝 Publications (\* co-first author &nbsp;&nbsp; # corresponding author)
 ## Conference
 2. <span class="pub-tag"><font color="Red">[IEEE INFOCOM'26]</font></span> Leqi Zhao, Luxin Shi, **Jianwei Liu<sup>#</sup>**, Rui Xiao<sup>#</sup>, Jinsong Han. “EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing”. [[PDF]](pdf/EchoFence_INFOCOM26.pdf) (CCF-A)
 3. <span class="pub-tag"><font color="Red">[IEEE GLOBECOM'25]</font></span> Qiqi Xiao, Ziqi Ye, Yinghui He, **Jianwei Liu**, Guanding Yu. “Meta-GLoc: GNN for Adaptive and Robust WiFi Localization with Meta-Learning”. [[PDF]](pdf/MetaGLoc_GLOBECOM25.pdf) (CCF-C)
@@ -121,7 +121,7 @@ If you have any questions about my research, or if you are interested in potenti
 - 2021.11, **Best Paper Candidate**, ACM SenSys 
   
 # 🤝 Professional Service
-- Guest editor for Electronics
+- Guest editor for Electronics.
 - Reviewer for leading journals including IEEE JSAC, IEEE TMC, ACM TIOT, ACM TKDD, IEEE IoTJ, and Computer Networks.
 - Reviewer for international conferences including IEEE GLOBECOM 2024, IEEE ICPADS 2025, MSN 2024, CSAE 2023.
 
