@@ -51,7 +51,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 # ⭐ News
 
-- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the [demo video](pdf/RespirFi_demo.mp4).
+- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the [[demo video]](pdf/RespirFi_demo.mp4).
 - 2026.03: A paper on RFID data augmentation was accepted by Chinese Journal of Electronics (电子学报).
 
 
@@ -122,7 +122,7 @@ If you have any questions about my research, or if you are interested in potenti
   
 # 🤝 Professional Service
 - Guest editor for Electronics.
-- Reviewer for leading journals including IEEE JSAC, IEEE TMC, ACM TIOT, ACM TKDD, IEEE IoTJ, and Computer Networks.
+- Reviewer for leading journals including IEEE JSAC, IEEE TMC, ACM TIOT, ACM TKDD, IEEE IoT-J, and Computer Networks.
 - Reviewer for international conferences including IEEE GLOBECOM 2024, IEEE ICPADS 2025, MSN 2024, CSAE 2023.
 
 
