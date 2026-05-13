@@ -34,7 +34,7 @@ redirect_from:
 <p style="font-size: 1.05em; line-height: 1.8;">
 I am Jianwei Liu (刘建伟), a postdoctoral researcher at Zhejiang University and Hangzhou City University. I received the Ph.D. degree from the School of Cyber Science and Technology and College of Computer Science and Technology at Zhejiang University. I joined Prof. Jinsong Han’s research group in 2018, mainly focusing on Mobile computing & Wireless Sensing & IoT Security & Artificial Intelligence. I has published 40+ papers with 750 citations.
 <br>
-If you have any questions about my research, or if you are interested in potential collaboration, please feel free to contact me via email: jianweiliu@zju.edu.cn.
+If you have any questions about my research, or if you are interested in potential collaboration, please feel free to contact me via email: <u>jianweiliu@zju.edu.cn</u>u.
 </p>
 
 # 🎓 Educations 
