@@ -51,7 +51,7 @@ If you have any questions about my research, or if you are interested in potenti
 
 # ⭐ News
 
-- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the [[demo video]](pdf/RespirFi_demo.mp4).
+- 2026.04: RespirFi was accepted by IEEE IoT-J. We released the <font color="blue">[demo video]</font>(pdf/RespirFi_demo.mp4).
 - 2026.03: A paper on RFID data augmentation was accepted by Chinese Journal of Electronics (电子学报).
 
 
